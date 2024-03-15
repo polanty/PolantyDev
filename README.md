@@ -1,3 +1,8 @@
+![Blue Modern Eye Catching Vlog YouTube Thumbnail](https://github.com/Uniqcoda/Uniqcoda/assets/41297833/1e6346e5-be04-4306-b8ee-1dcf3331cb5d)
+
+
+# Uniqcoda - Mary Etokwudo
+
 ### Hi there 👋
 
 <!--

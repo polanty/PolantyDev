@@ -3,9 +3,7 @@
 
 # Uniqcoda - Mary Etokwudo
 
-### Hi there 👋
-
-### Languages & Tools
+### Languages & Tools I use
 
 <img alt="Javascript" align="left" width="30px" style="padding-right:10px; margin-top:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
 <img alt="Javascript" align="left" width="30px" style="padding-right:10px; margin-top:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
